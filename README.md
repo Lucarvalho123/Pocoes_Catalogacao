@@ -20,7 +20,3 @@ modelo_dados/: Definições da taxonomia e chaves de metadados utilizadas.
 
 👤 Responsável Técnica
 Lu Carvalho
-
-LinkedIn
-
-GitHub
